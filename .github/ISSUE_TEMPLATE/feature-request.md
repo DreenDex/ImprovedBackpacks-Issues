@@ -1,9 +1,10 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Suggest an idea for Improved Backpacks
+labels: enhancement 
 
 ---
 
-**Your idea:**
+> Your idea
 
-**Screenshots or art (if any):**
+> Screenshots or art (if any)
