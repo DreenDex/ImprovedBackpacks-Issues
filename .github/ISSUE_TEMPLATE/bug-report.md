@@ -1,19 +1,24 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Use this template to submit a bug report
+labels: bug
 
 ---
 
-**Description:**
+## Environment
+Minecraft version:  
+Forge version:  
+Mod version:  
 
-**To Reproduce:**
-1. 
+## Expected behaviour
+> Backpack should open
 
-**Expected behavior:**
+## Actual behaviour
+> Backpack doesn't open
 
-**Screenshots (If applicable):**
+## Steps to reproduce
+1. Grab a backpack is hand.
+2. Right-click it.
+- Backpack doesn't open.
 
-**Additional information:**
-Minecraft version: 
-Forge version: 
-Mod version:
+> Screenshots (If applicable)
